@@ -1,5 +1,5 @@
 # DND-DETECTION-AND-BREAKING-SYSTEM-
-# 🚗 AI-Powered Alcohol Detection & Safe Driving System
+# 🚗 OpenCV based Alcohol Detection & Safe Driving System
 
 An intelligent driver-safety system that detects alcohol consumption and abnormal driving behavior in real time. The system combines **alcohol sensing, computer vision, and vehicle-control logic** to identify potentially unsafe driving conditions and respond by reducing vehicle speed, triggering alerts, and simulating controlled vehicle intervention.
 
